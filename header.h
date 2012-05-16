@@ -3,4 +3,6 @@
 
 #define AAA TRUE
 
+#This message is edited in branch_from_master
+
 #endif
